@@ -20,7 +20,7 @@ cd ai-interviewer
 ```
 
 2. **Set up your virtual environment**:
-```shell
+```console
 py -m venv venv
 ```
 
@@ -32,7 +32,7 @@ pip install .
 3. **Create a .env file in the root directory and add the necessary environment variables**:
 
 ```
-OPENAI_API_KEY=your_openai_api_key
+OPENAI_API_KEY="your_openai_api_key"
 ```
 
 4. **Run the application**:
