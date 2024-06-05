@@ -1,6 +1,6 @@
-# Employee Interview Bot
+# AI Interviewer Bot
 
-The Employee Interview Bot is a powerful tool designed to streamline the employee interview process. This bot can conduct interviews with candidates based on their CVs, or interact with them even if they do not have a CV. By leveraging advanced natural language processing (NLP) techniques, the bot can ask relevant questions, evaluate responses, and provide an initial assessment of the candidate's fit for the role.
+The AI Interviewer Bot is a powerful tool designed to streamline the employee interview process. This bot can conduct interviews with candidates based on their CVs, or interact with them even if they do not have a CV. By leveraging advanced natural language processing (NLP) techniques, the bot can ask relevant questions, evaluate responses, and provide an initial assessment of the candidate's fit for the role.
 
 ## Features
 
@@ -8,16 +8,15 @@ The Employee Interview Bot is a powerful tool designed to streamline the employe
 - **Interview without CV**: Candidates can also participate in interviews without providing a CV. The bot will ask general questions to gather information about their background and skills.
 - **Dynamic Questioning**: The bot adjusts its questions based on candidate responses to provide a more personalized interview experience.
 - **Feedback and Scoring**: The bot can provide feedback and an initial score based on the interview responses.
-- **Integration with HR Systems**: Easily integrates with existing HR systems to streamline the hiring process.
 
 ## Installation
 
-To run the Employee Interview Bot, follow these steps:
+To run the AI-Interviewer Bot, follow these steps:
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/employee-interview-bot.git
-cd employee-interview-bot
+git clone https://github.com/mnur13/ai-interviewer.git
+cd ai-interviewer
 ```
 
 2. **Set up your virtual environment**:
